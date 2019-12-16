@@ -4,7 +4,7 @@
  */
 error_reporting(E_ALL);
 // echo "reached php...<br>";
-// print_r($_REQUEST);
+print_r($_REQUEST);
 include 'db_connnection.php';
 // $conn = OpenCon();
 class Content

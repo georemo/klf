@@ -1,5 +1,5 @@
 $(document).ready(function () {
-    var url = "klf/backend/";
+    var url = "./klf/backend/";
     getContents();
 
     function getContents() {
