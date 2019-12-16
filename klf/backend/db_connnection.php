@@ -3,7 +3,7 @@ function OpenCon()
 {
     // echo "starting OpenCon()<br>";
     //105.48.68.38
-    $dbhost = "kisumulakefront.com";
+    $dbhost = "a2plcpnl0066.prod.iad2.secureserver.net";
     $dbuser = "klf3";
     $dbpass = "38sa0xe21d0j";
     $db = "klf3";
